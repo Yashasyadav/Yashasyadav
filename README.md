@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![An image of @yashasyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashasyadav)](https://holopin.io/@yashasyadav)
 <!--
 **Yashasyadav/Yashasyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

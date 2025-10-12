@@ -1,4 +1,4 @@
-## Hi, I'm Yashas Yadav �
+## Hi, I'm Yashas Yadav 
 [![An image of @yashasyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashasyadav)](https://holopin.io/@yashasyadav)
 <!--
 

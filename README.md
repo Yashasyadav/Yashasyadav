@@ -1,6 +1,5 @@
 ## Hi, I'm Yashas Yadav 
-[![An image of @yashasyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashasyadav)](https://holopin.io/@yashasyadav)
-<!--
+
 
 - 🎓 Computer Science Student at K.S.Rangasamy College of Technology (Graduating 2028)
 - 🔒 Building secure data wiping prototypes and multi-platform sanitization apps

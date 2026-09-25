@@ -1,41 +1,51 @@
-## Hi, I'm Yashas Yadav 
+<div align="center">
 
+# 👋 Hi, I'm Yashas Yadav R
 
-- 🎓 Computer Science Student at K.S.Rangasamy College of Technology (Graduating 2028)
-- 🔒 Building secure data wiping prototypes and multi-platform sanitization apps
-- 🌱 Currently learning: advanced encryption, React, Flutter, AI-driven security modules
-- 🤝 Connect with me:
-  - [LinkedIn](https://www.linkedin.com/in/r-yashas-yadav-b30a96330/)
-  - [Email](mailto:yashasyadavr@gmail.com)
+### 💻 Computer Science Engineer | 🔐 Cybersecurity & AI | 🚀 Full-Stack Developer
 
-## 🚀 Tech Stack
+<p>
+  <a href="https://www.linkedin.com/in/r-yashas-yadav-b30a96330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yashasyadavr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yashasyadavr">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-- **Tools:** VS Code.
+<img src="https://komarev.com/ghpvc/?username=yashasyadavr&label=Profile%20Views&color=0e75b6&style=flat" />
 
----
-## 📊 GitHub & Coding Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashasyadav&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=github_dark)
-![LeetCode Stats](https://leetcard.jacoblin.cool/yashas_yadav?theme=dark&ext=contest)
-
-![GitHub Contribution Graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashasyadav&bg_color=1a1a1a&color=fafafa&line=00ff4c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+</div>
 
 ---
-## 🏆 Current Projects
 
-- **Library Management System using C**: Console app for book lending, search, fines, authentication (C, File Handling)
-- **Tic Tac Toe Game using Python**: Two-player terminal game, modular logic, UI refresh, functions (Python)
-- **FarmNext – Smart Farming Website**: Responsive portal for prices, crop mapping, and crop suggestion (HTML, CSS, JS)
-- **AI Paraphraser using FLAN-T5**: FLAN-T5 paraphrasing, SentenceTransformer filtering, Gramformer correction (PyTorch, HF, Gramformer)
-- **CipherForge – Unified Data Sanitization Suite**: GUI app for secure deletes, multi-standard erasure, certificate gen, QR verify (Python, CustomTkinter, Cryptography, ReportLab, Segno, ADB, JSON)
+## 🧑‍💻 About Me
+
+I'm a **Computer Science Engineering student** at  
+**K.S. Rangasamy College of Technology**, graduating in **2028**.
+
+I enjoy building practical systems at the intersection of:
+
+- 🔐 **Cybersecurity**
+- 🤖 **Artificial Intelligence**
+- 🌐 **Full-Stack Development**
+- 🧠 **Problem Solving & Data Structures**
+- 🛡️ **Secure Data & Privacy Technologies**
+
+Currently exploring advanced concepts in **AI-powered security, secure data sanitization, machine learning, and modern web application development.**
+
+> **Build. Break. Learn. Secure. Repeat.**
+
 ---
 
-[![An image of @yashasyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashasyadav)](https://holopin.io/@yashasyadav)
-<!--
----
+## ⚡ What I Build
 
-
-
-
+```text
+🔐 Security Systems       →  Fake Profile Detection • Data Sanitization
+🤖 AI Systems             →  Computer Vision • NLP • Risk Analysis
+🌐 Full-Stack Applications →  React • Angular • Spring Boot • FastAPI
+🗄️ Backend Systems        →  REST APIs • JWT • PostgreSQL • MySQL
+🧩 Problem Solving        →  DSA • LeetCode • Competitive Programming

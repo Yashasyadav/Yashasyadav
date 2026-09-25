@@ -6,16 +6,16 @@
 
 <p>
   <a href="https://www.linkedin.com/in/r-yashas-yadav-b30a96330/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Yashas Yadav on LinkedIn" />
   </a>
   <a href="https://github.com/yashasyadavr">
-    <img src="https://img.shields.io/badge/GitHub-yashasyadavr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-yashasyadavr-181717?style=flat-square&logo=github&logoColor=white" alt="Yashas Yadav's GitHub profile" />
   </a>
   <a href="https://leetcode.com/u/yashas_yadav/">
-    <img src="https://img.shields.io/badge/LeetCode-yashas__yadav-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-yashas__yadav-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="Yashas Yadav's LeetCode profile" />
   </a>
   <a href="mailto:yashasyadavr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Yashas Yadav" />
   </a>
 </p>
 
@@ -29,13 +29,11 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/yashas_yadav/">
-    <img src="https://leetcard.jacoblin.cool/yashas_yadav?theme=dark&font=baloo&ext=contest" alt="Yashas Yadav LeetCode Statistics" />
+    <img src="https://leetcard.jacoblin.cool/yashas_yadav?theme=dark&font=baloo&ext=contest" alt="Yashas Yadav LeetCode statistics and contest information" />
   </a>
-</div>
-
-<div align="center">
+  <br>
   <a href="https://leetcode.com/u/yashas_yadav/">
-    <img src="https://img.shields.io/badge/100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="100+ LeetCode Problems Solved" />
+    <img src="https://img.shields.io/badge/100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 plus LeetCode problems solved" />
   </a>
 </div>
 
@@ -43,21 +41,25 @@
 
 # 📊 GitHub Activity
 
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashasyadavr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasyadavr&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashasyadavr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasyadavr&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Programming Languages" />
+  <img src="https://streak-stats.demolab.com?user=yashasyadavr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yashasyadavr&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasyadavr&theme=tokyo-night&hide_border=true&area=true&custom_title=Yashas%20Yadav%27s%20Contribution%20Graph" alt="GitHub Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashasyadavr&theme=tokyo-night&hide_border=true&area=true&custom_title=Yashas%20Yadav%27s%20Contribution%20Graph" alt="Yashas Yadav's GitHub contribution graph" />
 </div>
 
 ---
@@ -88,26 +90,11 @@
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
 </p>
 
-<ul>
-  <li>XGBoost</li>
-  <li>ArcFace</li>
-  <li>SentenceTransformer</li>
-  <li>OpenCLIP</li>
-  <li>spaCy</li>
-  <li>Microsoft Presidio</li>
-  <li>YOLOv8</li>
-  <li>Tesseract OCR</li>
-</ul>
+<p>XGBoost • ArcFace • SentenceTransformer • OpenCLIP • spaCy • Microsoft Presidio • YOLOv8 • Tesseract OCR</p>
 
 ### Security
 
-<ul>
-  <li>Cryptography</li>
-  <li>JWT</li>
-  <li>ADB</li>
-  <li>Secure Data Sanitization</li>
-  <li>Digital Audit Verification</li>
-</ul>
+<p>Cryptography • JWT • ADB • Secure Data Sanitization • Digital Audit Verification</p>
 
 ### Tools
 
@@ -115,10 +102,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, Visual Studio Code, and Docker" />
 </p>
 
-<ul>
-  <li>ReportLab</li>
-  <li>Segno</li>
-</ul>
+<p>ReportLab • Segno</p>
 
 ---
 
@@ -154,7 +138,7 @@ I enjoy understanding how systems work, solving real-world problems, and turning
 
 **AI Intelligent Fake Profile Detection System**
 
-AI-powered system for detecting potential fake and impersonation Instagram profiles using profile intelligence, multimodal analysis, and risk assessment.
+AI-powered system for detecting potential fake and impersonation Instagram profiles using profile intelligence, multimodal analysis and risk assessment.
 
 **Highlights**
 
@@ -174,7 +158,7 @@ AI-powered system for detecting potential fake and impersonation Instagram profi
 
 **Unified Data Sanitization Suite**
 
-Cross-platform secure data wiping system focused on secure deletion, sensitive-data detection, and verifiable audit reporting.
+Cross-platform secure data wiping system focused on secure deletion, sensitive-data detection and verifiable audit reporting.
 
 **Highlights**
 
@@ -194,7 +178,7 @@ Cross-platform secure data wiping system focused on secure deletion, sensitive-d
 
 ### 💳 Trade Reconciliation Platform
 
-Enterprise financial reconciliation platform designed to automatically match invoices, payments, and related financial records.
+Enterprise financial reconciliation platform designed to automatically match invoices, payments and related financial records.
 
 **Highlights**
 
@@ -254,10 +238,8 @@ Enterprise financial reconciliation platform designed to automatically match inv
 
 ### K.S. Rangasamy College of Technology
 
-**B.E. Computer Science and Engineering**
-
-2024 – 2028
-
+**B.E. Computer Science and Engineering**  
+2024 – 2028  
 **Current CGPA:** 8.6 / 10.0
 
 ---
@@ -266,16 +248,16 @@ Enterprise financial reconciliation platform designed to automatically match inv
 
 <div align="center">
   <a href="https://www.linkedin.com/in/r-yashas-yadav-b30a96330/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Yashas Yadav on LinkedIn" />
   </a>
   <a href="https://github.com/yashasyadavr">
-    <img src="https://img.shields.io/badge/GitHub-yashasyadavr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-yashasyadavr-181717?style=for-the-badge&logo=github&logoColor=white" alt="Yashas Yadav's GitHub profile" />
   </a>
   <a href="https://leetcode.com/u/yashas_yadav/">
-    <img src="https://img.shields.io/badge/LeetCode-yashas__yadav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-yashas__yadav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Yashas Yadav's LeetCode profile" />
   </a>
   <a href="mailto:yashasyadavr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yashasyadavr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-yashasyadavr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yashas Yadav" />
   </a>
 </div>
 
@@ -285,7 +267,7 @@ Enterprise financial reconciliation platform designed to automatically match inv
 
 <div align="center">
   <a href="https://holopin.io/@yashasyadav">
-    <img src="https://holopin.me/yashasyadav" alt="Yashas Yadav Holopin Badges" />
+    <img src="https://holopin.me/yashasyadav" alt="Yashas Yadav Holopin badges" />
   </a>
 </div>
 

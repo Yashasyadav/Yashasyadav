@@ -1,0 +1,38 @@
+# .github/workflows/3d-contrib.yml
+# OPTIONAL — generates a 3-D contribution graph and pushes it to the "output" branch.
+# Delete this file if you do not want the 3-D graph.
+# No extra secret required — uses the built-in GITHUB_TOKEN.
+
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 7 * * *"    # daily at 07:00 UTC (1 h after snake)
+  workflow_dispatch:
+
+jobs:
+  build-3d:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Yashasyadav
+
+      - name: Push graph to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# To embed the graph in README.md, add this line after the snake section:
+#
+# ![3D contribution graph](https://raw.githubusercontent.com/Yashasyadav/Yashasyadav/output/profile-night-rainbow.svg)

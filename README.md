@@ -28,8 +28,8 @@
 <a href="https://leetcode.com/u/yashas_yadav/">
   <img src="https://img.shields.io/badge/LeetCode-yashas__yadav-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
 </a>
-<a href="mailto:Yashasyadav@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Yashasyadav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email to Yashas Yadav" />
+<a href="mailto:yashasyadavr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-yashasyadavr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email to Yashas Yadav" />
 </a>
 
 <br/><br/>
